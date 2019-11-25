@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am noycn69 on github.
+  * I am noycn69 (https://keybase.io/noycn69) on keybase.
+  * I have a public key ASA5iJPodnEx2F1DOmIVgm2J3ETha1iUMrAUqpy5dFALygo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120398893e8767131d85d433a6215826d89dc44e16b589432b014aa9cb974500bca0a",
+      "host": "keybase.io",
+      "kid": "0120398893e8767131d85d433a6215826d89dc44e16b589432b014aa9cb974500bca0a",
+      "uid": "255aeb699bdcc3f1ab858a47bd628819",
+      "username": "noycn69"
+    },
+    "merkle_root": {
+      "ctime": 1574690042,
+      "hash": "c906bdf193d101123c91e57ee5ec3adcf744082bce8fd28d64b9326a8687ed15ab745d53f55efb9c650c876b0818449d43888ea3f99a80d724965d113833f300",
+      "hash_meta": "89eb5cf0c1b9fc08e2f964e9623f1e1d3eec90ae667f9db018bf4a3301eb5b54",
+      "seqno": 10820612
+    },
+    "service": {
+      "entropy": "adX1qRkUpArqcNEeeLGVIxzn",
+      "name": "github",
+      "username": "noycn69"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574690050,
+  "expire_in": 504576000,
+  "prev": "6f5afe97dd2f91d827fcfd13f9d846eb3614076733d96859e3e2916470673d79",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASA5iJPodnEx2F1DOmIVgm2J3ETha1iUMrAUqpy5dFALygo](https://keybase.io/noycn69), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOYiT6HZxMdhdQzpiFYJtidxE4WtYlDKwFKqcuXRQC8oKp3BheWxvYWTESpcCBcQgb1r+l90vkdgn/P0T+dhG6zYUB2cz2WhZ4+KRZHBnPXnEIKIivm1DFClFWHnQIeFmIpL2+U6QJvqIkckO4DPzZPbfAgHCo3NpZ8RAIeIFTzxi6pZIm/stUA8g5wey3DJsqpgERC8zW7Kbw6w++a2dipFdH7Nc3C1VUoWgTQ6I+xL+5LYDJa85z22eCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPo+DhHfuH2SMyH8QgPOipGbJFFAfioKRYbS9TuQxGvqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/noycn69
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id noycn69
+```
